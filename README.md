@@ -2,7 +2,7 @@ A collection of useful powershell commands, Windows tips and handy command-line 
 
 /* Activate Windows and Microsoft Office 365 with a single command */
 
-'irm https://get.activated.win | iex'
+irm https://get.activated.win | iex
 
 1. Press 'Win + S', type powershell.
 2. Right-click Command Prompt and choose Run as administrator.3
